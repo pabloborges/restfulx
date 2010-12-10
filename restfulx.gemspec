@@ -59,7 +59,6 @@ Gem::Specification.new do |s|
      "lib/restfulx/amf.rb",
      "lib/restfulx/amf/class_mapping.rb",
      "lib/restfulx/amf/ext.rb",
-     "lib/restfulx/amf/ext/serializer.bundle",
      "lib/restfulx/amf/pure.rb",
      "lib/restfulx/amf/pure/io_helpers.rb",
      "lib/restfulx/amf/pure/serializer.rb",
